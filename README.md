@@ -6,6 +6,13 @@ This web app: **A React-based application to create, view, edit, and delete cust
 
 Time spent: **15** hours spent in total
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/github-pratik/Crewmate_DBSupabase/blob/main/crewmate.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 ## Required Features
 
 The following **required** functionality is completed:
@@ -42,13 +49,6 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] List anything else that you added to improve the site's functionality!
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 
 
 ## Notes
